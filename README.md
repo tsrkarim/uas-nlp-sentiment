@@ -1,3 +1,5 @@
+# nama TS.Rahmat Karim
+# nim 24146047
 # uas-nlp-sentiment
 UAS Natural Language Processing - Sentiment Analysis Naive Bayes
 
